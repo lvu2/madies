@@ -1,0 +1,154 @@
+.top-section-container{
+	width: 100%;
+	height: 60vw;
+	background: black;
+	padding-left: 0;
+	padding-right: 0;
+	.top-section-text-container{
+		width: 100%;
+		height: 100%;
+		padding-left: 0;
+		padding-right: 0;
+		.top-text{
+			height: 20%;
+			.top-text-column-one{
+				text-align: center;
+				display: table;
+				width: 100%;
+				height: 100%;
+				span{
+	  				display: table-cell;
+	  				vertical-align: middle;
+	  				color: white;
+					text-align: center;
+					text-transform: uppercase;
+					img{
+						width: 25%;
+					}
+				}
+			}
+			.top-text-column-two{
+				text-align: center;
+				display: table;
+				width: 100%;
+				height: 100%;
+				font-family: 'Blw';
+				font-weight: 300;
+				font-size: 1.66667vw;
+				span{
+	  				display: table-cell;
+	  				vertical-align: middle;
+	  				color: white;
+					text-align: center;
+					text-transform: uppercase;
+				}
+			}
+			.top-text-column-three{
+				text-align: center;
+				display: table;
+				width: 100%;
+				height: 100%;
+				font-family: 'NB-L', sans-serif;
+				font-size: 1.66667vw;
+				div{
+	  				display: table-cell;
+	  				vertical-align: middle;
+	  				color: white;
+					text-align: center;
+					text-transform: uppercase;
+					.esp, .eng{
+						cursor: pointer;
+					}
+				}
+			}
+		}
+		.middle-text{
+			height: 40%;
+			font-family: 'Blw';
+			font-weight: 300;
+			color: white;
+			font-size: 8.33334vw;
+			letter-spacing: -0.04em;
+			span{
+				position: relative;
+				left: 12vw;
+				width: auto;
+			}
+		}
+		.bottom-text{
+			height: 40%;
+			font-family: 'Blw';
+			font-weight: 300;
+			color: white;
+			font-size: 8.33334vw;
+			letter-spacing: -0.04em;
+			span{
+				position: relative;
+				left: 17vw;
+			}
+		}
+	}
+}
+
+.circle-container{
+	.yellow-circle{
+		background-color: #F8BC26; 
+		position: absolute;
+		width: 8vw;
+		height: 8vw;
+		top: 13vw;
+		right: 17vw;
+		border-radius: 50%;
+	}
+	.green-half-circle{
+		background-color: #02A751;
+		position: absolute;
+		width: 4vw;
+		height: 8vw;
+		top: 13vw;
+		right: 13vw;
+		border-radius: 4vw 0% 0% 4vw;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+.fourth-section-container{
+	width: 100%;
+	height: 47vw;
+}
+
+.text-container.container-fluid{
+	width: auto;
+	text-transform: uppercase;
+	font-family: 'NB-L', sans-serif;
+	line-height: 3.4vw;
+	font-size: 2.86458vw;
+	letter-spacing: -.02em;
+	box-sizing: "border-box";
+	font-weight: 300;
+	position: absolute;
+	top: 279vw;
+	left: 10vw;
+	span{
+		width: auto;
+	}
+}
+
+.foto-seven{
+	position: absolute;
+	width: 36vw;
+	top: 279vw;
+	left: 50vw;
+}
+
+.fourth-section-circle-container{
+	position: absolute;
+	top: 302vw;
+	.fourth-section-blue-half-circle{
+		background-color: #0038A6;
+		position: absolute;
+		width: 5vw;
+		height: 10vw;
+		left: 12vw;
+		border-radius: 0vw 5vw 5vw 0vw;
+	}
+	.fourth-section-orange-half-circle{
+		background-color: #FF5702;
+		position: absolute;
+		width: 5vw;
+		height: 10vw;
+		left: 17vw;
+		border-radius: 0vw 5vw 5vw 0vw;
+	}
+}

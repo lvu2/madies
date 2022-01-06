@@ -1,0 +1,39 @@
+{	"eng": {
+		"section_one": {
+			"top_text": "Crunchy Fruit",
+			"middle_text": "Snack —",
+			"bottom_text": "Just Like That"
+		},
+		"section_two": {
+			"top_text": [
+				"a natural",
+				"product with",
+				"nothing to add"
+			],
+			"bottom_text": [
+				"From our",
+				"Orchards to",
+				"your Hands"
+			]
+		}
+	},
+	"esp": {
+		"section_one": {
+			"top_text": "Botana de Fruita",
+			"middle_text": "Crujiente —",
+			"bottom_text": "Asi de Simple"
+		},
+		"section_two": {
+			"top_text": [
+				"un producto",
+				"natural sin nada",
+				"que agregar"
+			],
+			"bottom_text": [
+				"De la Huerta",
+				"a tus Manos",
+				""
+			]
+		}
+	}
+}

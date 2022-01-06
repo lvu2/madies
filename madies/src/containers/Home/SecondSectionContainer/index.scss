@@ -1,0 +1,135 @@
+.second-section-container{
+	width: 100%;
+	height: 126vw;
+	.foto-two{
+		width: 29vw;
+		left: 12vw;
+		top: 12vw;
+		position: relative;
+		z-index: 1;
+	}
+	.foto-three{
+		width: 59vw;
+		left: 0vw;
+		top: 109vw;
+		position: absolute;
+	}
+	.container-fluid.second-section-bottom-text-container{
+		z-index: 2;
+		position: absolute;
+		width: auto;
+		margin-right: 0;
+		margin-left: 0;
+		padding-right: 0;
+		padding-left: 0;
+		left: 58vw;
+		top: 123vw;
+		span{
+			font-size: 7.29167vw;
+			font-family: 'Blw';
+			font-weight: 300;
+			line-height: 1em;
+			letter-spacing: -0.04em;
+			margin-right: 0;
+			margin-left: 0;
+			padding-right: 0;
+			padding-left: 0;
+			text-align: end;
+		}
+	}
+}
+
+.container-fluid.second-section-top-text-container {
+	text-transform: uppercase;
+	width: auto;
+	top: 5vw;
+	margin-left: 8vw;
+	position: relative;
+	span{
+		width: auto;
+		font-family: 'NB-L', sans-serif;
+		font-size: 2.86458vw;
+		line-height: 1.18em;
+		letter-spacing: -.02em;
+		font-weight: 300;
+	}
+}
+
+.top-circle-container{
+	.black-half-circle{
+		background-color: black;
+		position: absolute;
+		width: 7.5vw;
+		height: 15vw;
+		top: 95vw;
+		right: 13vw;
+		border-radius: 7.5vw 0% 0% 7.5vw;
+	}
+	.orange-half-circle{
+		background-color: #FF5702;
+		position: absolute;
+		width: 12vw;
+		height: 6vw;
+		top: 99vw;
+		right: 17vw;
+		border-radius: 0vw 0vw 6vw 6vw;
+	}
+}
+
+.mountain-container{
+	top: 162vw;
+	right: 0;
+	position: absolute;
+	.mountain-img{
+		width: 25vw;
+		position: relative;
+	}
+	.black-circle{
+		background-color: black;
+		width: 25vw;
+		height: 25vw;
+		border-radius: 50%;
+		position: absolute;
+		top: -1vw;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
